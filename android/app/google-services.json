@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94422897741",
+    "project_id": "foodninja-d50ca",
+    "storage_bucket": "foodninja-d50ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94422897741:android:3a8eccc813831370b8b804",
+        "android_client_info": {
+          "package_name": "com.example.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94422897741-4rqgbtnuq9bku67dciutt778vcc8prhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fooddelivery",
+            "certificate_hash": "ad75c41745ae9ef358369cc38e385582b7331836"
+          }
+        },
+        {
+          "client_id": "94422897741-4du19mj97b83aqjoo956lromt7iur0m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3m6sHV-y1j-Mum3EbUyWMrzLwAag-Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94422897741-4du19mj97b83aqjoo956lromt7iur0m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
